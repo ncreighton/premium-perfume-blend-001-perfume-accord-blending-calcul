@@ -1,0 +1,2 @@
+# premium-perfume-blend-001-perfume-accord-blending-calcul
+Tired of wasting precious perfume materials on failed blends? Stop guessing and start crafting professional-grade accords with the Perfume Accord Blending Calculator.  This Notion template eliminates the trial-and-error by automatically calculating precise ratios for any set of notes, ensuring balance and harmony in every accord. Unlike generic spr
